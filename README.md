@@ -8,3 +8,5 @@ This Todo List API was created using Node.js, Express framework and MongoDB.
 Most of The X company's micro-services will be built on decentralized platforms. However some part of it will still be built on centralized platforms to give us an minimal control of what happens on our systems.
 
 This API will give us a convenience way to connect to out centralized DB (MongoDB) which will be use in our Admin System in future.
+
+[Sample Application on Heroku](https://shielded-shelf-43093.herokuapp.com/recipes)
