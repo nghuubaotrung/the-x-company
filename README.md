@@ -1,6 +1,8 @@
 # About
 [The Idea](http://the-x-company.surge.sh/)
 
-This repository contains prototypes of the project "The X Company", a company in the blocks, automated and decentralized, where 90% decision-making will be automatically triggered by smart contracts with transparency.
+This branch contains the source code of xWallet, a customized crypto currency wallet for the project "The X Company".
+We decided to create our own crypto wallet since we need a customized solution to help us with our transactions and a better way to monitoring multi-balances.
 
-Our mission is providing users great solutions with the LOWEST cost by replacing middlemen (or 3rd parties) and simplifying & automating operations.
+The prototype system of xWallet contains 2 servers, one for Geth CLI and Mining tasks, one for front-end application which was built using Meteor framework (NodeJS).
+We also using MongoDB as 1 centralized DB (for performance-experiment purpose only)
