@@ -1,5 +1,5 @@
 # About
-This branch contains the source code of xWallet, a customized crypto currency wallet for the project "The X Company".
+This branch contains the source code of xWallet, a customized crypto currency wallet for the project ["The X Company"](http://the-x-company.surge.sh/).
 
 We decided to create our own crypto wallet since we need a customized solution to help us with our transactions and a better way to monitoring multi-balances and mining process.
 
